@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateDefiner", "RateDefiner\RateDefiner.csproj", "{26325BD5-3F19-46C3-86C3-D97387A3A230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26325BD5-3F19-46C3-86C3-D97387A3A230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26325BD5-3F19-46C3-86C3-D97387A3A230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26325BD5-3F19-46C3-86C3-D97387A3A230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26325BD5-3F19-46C3-86C3-D97387A3A230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6272C9C-334C-4930-AC44-2BC3FC36817F}
+	EndGlobalSection
+EndGlobal

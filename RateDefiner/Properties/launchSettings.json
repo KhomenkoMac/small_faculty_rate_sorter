@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RateDefiner": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/Users/user1/Desktop/Вчасно_склали_літню_сесію_2022_середній_бал_бюджет.pdf"
+    }
+  }
+}
